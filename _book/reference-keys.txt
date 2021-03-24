@@ -1,0 +1,11 @@
+fig:nice-fig
+tab:nice-tab
+prerequisites
+intro
+this-is-a-section-heading-for-frederick
+literature
+methods
+applications
+example-one
+example-two
+final-words
